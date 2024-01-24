@@ -25,6 +25,7 @@ tree.txt
 *.diff
 *.patch
 *.tmp
+*.class
 
 # system ignore
 .DS_Store
